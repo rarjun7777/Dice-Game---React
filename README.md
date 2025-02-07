@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project 3 - DICE GAME
 
@@ -9,3 +10,6 @@ Figma Design URL - https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React
 Visit Website For More Details - https://dosomecoding.com
 
 
+=======
+# Dice-Game---React
+>>>>>>> 40f1ea223fa1353cb57aeebb1f51e87905782151
